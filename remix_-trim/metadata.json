@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Trim",
+  "description": "A high-fidelity workout training tracking application. Manage multi-week training programs, build reusable routines library, play workouts with an interactive interval player, and easily import workouts from AI-generated text or shared layouts. Gamified like duolingo but for personal fitness. Theme 8bit gameboy",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
